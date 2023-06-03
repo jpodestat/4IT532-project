@@ -1,14 +1,14 @@
 //
-//  _IT532_projectApp.swift
-//  4IT532-project
+//  testApp.swift
+//  test
 //
-//  Created by Jan Podestát on 31.05.2023.
+//  Created by Jan Podestát on 01.06.2023.
 //
 
 import SwiftUI
 
 @main
-struct _IT532_projectApp: App {
+struct ProjectApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
